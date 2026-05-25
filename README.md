@@ -1,8 +1,8 @@
-<h2 align="center">Ahmad Lutfi Al Muzakir a.k.a Luge Axel</h2>
+<h1 align="center">Ahmad Lutfi Al Muzakir / Luge Axel</h1>
 
 ###
 
-<h4 align="left">A passionate front-end developer that love to grow and learn something new everday, currently interested in AI agents that will help us developer in more efficient way to develop!</h4>
+<p align="left">im a passionate front-end developer that love to grow and learn something new everday while still enjoying the progress, currently interested in AI agents that will help us developer in more efficient way to develop! also im looking for project to help me grow as a developer and could challenge me!</p>
 
 ###
 
@@ -11,6 +11,10 @@
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
 </div>
+
+###
+
+<h2 align="center">My Tech Stacks!</h2>
 
 ###
 
@@ -38,6 +42,10 @@
 
 ###
 
+<h2 align="center">Social Media!</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmad-lutfi-al-muzakir-3819b0331?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -52,6 +60,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">Activity On Github!</h2>
 
 ###
 
