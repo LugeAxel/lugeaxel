@@ -8,10 +8,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
-</div>
-
 ###
 
 <h2 align="center">My Tech Stacks!</h2>
