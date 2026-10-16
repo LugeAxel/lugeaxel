@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">im a  passionate front-end developer that love to grow and learn something new everday while still enjoying the progress, currently interested in AI agents that will help us developer in more efficient way to develop! also im looking for project to help me grow as a developer and could challenge me!</p>
+<p align="left">im a passionate front-end developer that love to grow and learn something new everday while still enjoying the progress, currently interested in AI agents that will help us developer in more efficient way to develop! also im looking for project to help me grow as a developer and could challenge me! The next i wanted to be a gamedev</p>
 
 ###
 
